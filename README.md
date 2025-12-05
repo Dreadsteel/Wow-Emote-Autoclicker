@@ -1,5 +1,8 @@
 Net framework may be required for this program to work: https://dotnet.microsoft.com/en-us/download/dotnet-framework
 
+
+
+
 Download the files and extract anywhere. Run AutoClickerEmoteRevamp.exe to start the program.
 
 Full instructions on how to use are inside the program itself
