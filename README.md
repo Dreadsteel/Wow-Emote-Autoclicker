@@ -1,3 +1,5 @@
+Net framework may be required for this program to work: https://dotnet.microsoft.com/en-us/download/dotnet-framework
+
 Full instructions on how to use are inside the program itself
 
 Type in the desired emote's number or use "5" to specify your own clicking interval (in milliseconds). Press enter to proceed to the next step
