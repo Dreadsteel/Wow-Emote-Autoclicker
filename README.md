@@ -3,7 +3,7 @@ Net framework may be required for this program to work: https://dotnet.microsoft
 
 
 
-Download the files and extract anywhere. Run AutoClickerEmoteRevamp.exe to start the program.
+Download the files and extract anywhere. Run AutoClickerEmote.exe to start the program.
 
 Full instructions on how to use are inside the program itself
 
