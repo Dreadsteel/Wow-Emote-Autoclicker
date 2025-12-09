@@ -1,6 +1,8 @@
 Net framework may be required for this program to work: https://dotnet.microsoft.com/en-us/download/dotnet-framework
 
+Virus total for the exe: https://www.virustotal.com/gui/file/65bc736c0d95a2bcf1e14e8c3f42f1175420fd52010d26acc828ec8059067dc3?nocache=1
 
+Any detections there are false-positives due to the program being able to click for you
 
 
 Download the files and extract anywhere. Run AutoClickerEmote.exe to start the program.
